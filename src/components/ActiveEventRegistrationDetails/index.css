@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.initial-status {
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #475569;
+}
+.yet-register-img {
+  height: 200px;
+  margin-bottom: 5px;
+}
+.description {
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #64748b;
+  margin-bottom: 15px;
+}
+.button {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: 'roboto';
+  padding: 10px;
+  width: 220px;
+  border-radius: 5px;
+}
+.ticked-img {
+  height: 200px;
+}
+.closed-heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: 600;
+}

@@ -1,0 +1,31 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+button {
+  cursor: pointer;
+  border: 0;
+  outline: none;
+  background-color: transparent;
+}
+.event-img {
+  height: 130px;
+  width: 200px;
+}
+.list-item {
+  display: flex;
+  text-align: left;
+}
+.location {
+  text-align: left;
+  color: #f8fafc;
+  font-family: 'roboto';
+  font-size: 15px;
+}
+.name {
+  text-align: left;
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #fff;
+}
